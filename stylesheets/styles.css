@@ -53,9 +53,9 @@ body {
   z-index: 2;
   position: absolute;
   bottom: 200px;
+ height: 450px;
+  width: 450px;
   left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%)
-  height: 500px;
-  width: 500px;
 }
