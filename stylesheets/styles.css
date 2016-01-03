@@ -27,7 +27,7 @@ p {
 #rectangle {
     background: #444445;
     /*min-height: 50%;*/
-    height: 50%;
+    height: 100%;
     width: 100%;
     z-index: 1;
     margin-top: 0;
