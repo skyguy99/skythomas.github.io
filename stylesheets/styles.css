@@ -19,3 +19,8 @@ p {
   margin-right: auto;
   font-family:"HelveticaNeue-UltraLight";
 }
+.bg
+{
+  width: 100%;
+  z-index: 0;
+}
