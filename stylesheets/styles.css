@@ -26,8 +26,9 @@ p {
 }
 #rectangle {
     background: #4679BD;
-    min-height: 50px;
+    min-height: 50%;
     width: 100%;
+    z-index: 1;
 }
 body {
   margin: 0;
@@ -42,6 +43,5 @@ body {
    width: 100%; 
    height: 50%;
    z-index:0;
-   bottom: 500px;
 }
 
