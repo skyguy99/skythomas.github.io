@@ -30,6 +30,8 @@ p {
     min-height: 500px;
     width: 100%;
     z-index: 1;
+    position: fixed;
+    top: -100%;
 }
 body {
   margin: 0;
