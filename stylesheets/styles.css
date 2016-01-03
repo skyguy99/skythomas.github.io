@@ -54,6 +54,7 @@ body {
   position: absolute;
   bottom: 200px;
   left: 50%;
+  margin-right: -50%;
   /*height: 50px;
   width: 50px;*/
 }
