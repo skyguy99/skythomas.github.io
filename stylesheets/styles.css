@@ -27,7 +27,7 @@ p {
 #rectangle {
     background: #444445;
     /*min-height: 50%;*/
-    height: 100%;
+    height: 600px;
     width: 100%;
     z-index: 1;
     margin-top: 0;
@@ -52,10 +52,11 @@ body {
 .profile {
   z-index: 2;
   position: absolute;
-  bottom: 200px;
- height: 450px;
-  width: 450px;
+  bottom: 250px;
+ height: 350px;
+  width: 350px;
   left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%)
 }
+
