@@ -52,4 +52,5 @@ body {
 .profile {
   z-index: 2;
   position: absolute;
+  bottom: 200px;
 }
