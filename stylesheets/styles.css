@@ -25,8 +25,8 @@ p {
   font-family:"HelveticaNeue-UltraLight";
 }
 #rectangle {
-    background: #4679BD;
-    min-height: 50%;
+    background: #444445;
+    /*min-height: 50%;*/
     width: 100%;
     z-index: 1;
 }
