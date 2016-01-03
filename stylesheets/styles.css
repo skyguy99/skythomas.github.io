@@ -51,4 +51,5 @@ body {
 }
 .profile {
   z-index: 2;
+  position: absolute;
 }
