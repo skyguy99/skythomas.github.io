@@ -53,8 +53,7 @@ body {
   z-index: 2;
   position: absolute;
   bottom: 200px;
-  margin-left: auto;
-  margin-right: auto;
+  vertical-align: middle;
   /*height: 50px;
   width: 50px;*/
 }
