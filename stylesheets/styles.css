@@ -26,6 +26,7 @@ p {
   font-family:"HelveticaNeue-UltraLight";
   font-size:22px;
   display: inLine;
+   padding: 15px;
 }
 #rectangle {
     background: #A3A1A3;
@@ -70,7 +71,7 @@ position: absolute;
     transform: translate(-50%, 140%) 
 }
 .ageHead {
-margin-left: 24%;
+margin-left: 20%;
 }
 #topLine {
 display: inLine;	
