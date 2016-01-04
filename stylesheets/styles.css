@@ -27,7 +27,7 @@ p {
   bottom: 20px;
 }
 #rectangle {
-    background: #444445;
+    background: #A3A1A3;
     /*min-height: 50%;*/
     height: 520px;
     width: 100%;
@@ -54,7 +54,7 @@ body {
 .profile {
   z-index: 2;
   position: absolute;
-  bottom: 120px;
+  bottom: 35%;
  height: 350px;
   width: 350px;
   left: 50%;
