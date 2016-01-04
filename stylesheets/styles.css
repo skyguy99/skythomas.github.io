@@ -101,8 +101,12 @@ display: inLine;
   font-family:"HelveticaNeue";
   font-size:17px;
   padding: 20px; 
-  border: black 2px solid;
+  border: black 1px solid;
   width: 100px;
-  text-decoration: none;
 }
-
+.conLink {
+  text-decoration: none;
+  position: absolute;
+  top: 90%;
+  margin-left: 50%;
+}
