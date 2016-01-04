@@ -17,6 +17,7 @@ h3 {
   margin-right: auto;
   font-family:"HelveticaNeue-Bold";
   bottom: 80px;
+  display: inline;
 }
 p {
   color: #000;
@@ -25,6 +26,7 @@ p {
   margin-right: auto;
   font-family:"HelveticaNeue-UltraLight";
   bottom: 20px;
+  display: inline;
 }
 #rectangle {
     background: #A3A1A3;
