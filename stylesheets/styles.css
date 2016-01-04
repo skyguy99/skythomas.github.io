@@ -98,8 +98,11 @@ display: inLine;
 }
 .contact {
   text-align: center;
+  font-family:"HelveticaNeue";
+  font-size:17px;
   padding: 20px; 
   border: black 2px solid;
   width: 100px;
+  text-decoration: none;
 }
 
