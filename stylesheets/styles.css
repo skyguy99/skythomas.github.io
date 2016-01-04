@@ -17,7 +17,6 @@ h3 {
   margin-right: auto;
   font-family:"HelveticaNeue-Bold";
   font-size: 22px;
-  display: inLine;
 }
 p {
   color: #000;
@@ -65,7 +64,8 @@ body {
 .ageHead {
 	margin-left: 20%;
 }
-.age {
+#topLine {
+display: inLine;	
 }
 .webLink {
   position: relative;
