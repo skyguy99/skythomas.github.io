@@ -15,7 +15,7 @@ h3 {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  font-family:"HelveticaNeue-Bold";
+  font-family:"HelveticaNeue-Bold", Helvetica;
   font-size: 22px;
 }
 p {
