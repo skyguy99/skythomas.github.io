@@ -80,7 +80,7 @@ display: inLine;
   top: 93%;
   color: #000;
   text-align: center;
-  margin-left: 44%;
+  margin-left: 43.5%;
   font-family:"HelveticaNeue-UltraLight";
   text-decoration: none;
 }
@@ -93,5 +93,12 @@ display: inLine;
   height: 16px;
   position: absolute;
   top: 93.5%;
- margin-left: 42.5%;
+ margin-left: 42%;
 }
+.contact {
+  text-align: center;
+  padding: 20px; 
+  border: black 2px solid;
+  width: 100px;
+}
+
