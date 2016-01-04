@@ -3,7 +3,7 @@
   text-align: center;
   /*margin-left: auto;
   margin-right: auto;*/
-  font-family:"HelveticaNeue-UltraLight", "ProximaNova-Thin";
+  font-family:"HelveticaNeue-UltraLight", Helvetica;
   font-size: 100px;
   position: absolute; 
    top: 200px; 
@@ -23,7 +23,7 @@ p {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  font-family:"HelveticaNeue-UltraLight";
+  font-family:"HelveticaNeue-UltraLight", Helvetica;
   font-size:22px;
   display: inLine;
    padding: 15px;
@@ -82,7 +82,7 @@ display: inLine;
   color: #000;
   text-align: center;
   margin-left: 43.5%;
-  font-family:"HelveticaNeue-UltraLight";
+  font-family:"HelveticaNeue-UltraLight", Helvetica;
   text-decoration: none;
 }
 #box {
@@ -98,7 +98,7 @@ display: inLine;
 }
 .contact {
   text-align: center;
-  font-family:"HelveticaNeue";
+  font-family:"HelveticaNeue", Helvetica;
   font-size:17px;
   padding: 15px; 
   border: black 1px solid;
