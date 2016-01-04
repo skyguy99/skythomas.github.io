@@ -61,6 +61,14 @@ body {
     margin-right: -50%;
     transform: translate(-50%, -50%)
 }
+.interests {
+  position: absolute;
+  bottom: 35%;
+ height: 50px;
+  left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)  
+}
 .ageHead {
 margin-left: 24%;
 }
