@@ -91,4 +91,6 @@ display: inLine;
 }
 .link {
   height: 20px;
+  position: absolute;
+    top: 40%;
 }
