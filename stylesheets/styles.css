@@ -76,3 +76,7 @@ body {
   margin-right: auto;
   font-family:"HelveticaNeue-UltraLight";
 }
+#box {
+position: absolute;
+    top: 50%;	
+}
