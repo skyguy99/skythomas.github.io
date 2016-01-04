@@ -52,9 +52,9 @@ body {
 .profile {
   z-index: 2;
   position: absolute;
-  bottom: 140px;
- height: 400px;
-  width: 400px;
+  bottom: 120px;
+ height: 350px;
+  width: 350px;
   left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%)
