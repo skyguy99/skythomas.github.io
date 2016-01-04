@@ -61,5 +61,15 @@ body {
     margin-right: -50%;
     transform: translate(-50%, -50%)
 }
+.ageHead {
+  position: relative;
+  left: -30%;
+  top: 20px;
+}
+.age {
+  position: relative;
+  left: -30%;
+  top: 20px;
+}
 
 
