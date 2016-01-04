@@ -26,6 +26,7 @@ p {
   margin-right: auto;
   font-family:"HelveticaNeue-UltraLight";
   font-size:22px;
+  display: inLine;
 }
 #rectangle {
     background: #A3A1A3;
@@ -67,9 +68,9 @@ body {
   top: 50%;
 }
 .age {
-  position: relative;
-  left: -30%;
-  top: 35%;
+  position: absolute;
+  left: 30%;
+  top: 50%;
 }
 .webLink {
   position: relative;
